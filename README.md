@@ -1,4 +1,4 @@
-# 42cursus
+# 42tokyo_cursus
 
 These programs were created as subjects for 42Tokyo, an engineering training school.
 
