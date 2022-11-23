@@ -13,6 +13,7 @@ docker build -t ft_server .
 docker run --name ft_server -d -p 443:443 -p 80:80 ft_server
 ```
 Option) Autoindex OFF
+
 Default AUTOINDEX is on. If you want to run the container setting autoindex off:
 ```
 docker run --env AUTOINDEX=off --name ft_server -d -p 443:443 -p 80:80 ft_server
