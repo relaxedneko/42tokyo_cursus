@@ -1,3 +1,2 @@
-#Libft
-
-The subject of recoding C libraries with groupings of normal functions.
+# Libft
+The aim of this project is to code a C library regrouping usual functions.
